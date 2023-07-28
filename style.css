@@ -1,0 +1,16 @@
+#year{
+  width: 30px;
+}
+
+#month{
+  width: 15px;
+}
+
+#day
+{
+  width: 15px;
+}
+
+input{
+  margin-right: 20px;
+}
